@@ -1,0 +1,15 @@
+C:\Users\seant\Documents\GitHub\mis-221-lab-4-shthomas1\obj\Debug\net8.0\mis-221-lab-4-shthomas1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seant\Documents\GitHub\mis-221-lab-4-shthomas1\obj\Debug\net8.0\mis-221-lab-4-shthomas1.AssemblyInfoInputs.cache
+C:\Users\seant\Documents\GitHub\mis-221-lab-4-shthomas1\obj\Debug\net8.0\mis-221-lab-4-shthomas1.AssemblyInfo.cs
+C:\Users\seant\Documents\GitHub\mis-221-lab-4-shthomas1\obj\Debug\net8.0\mis-221-lab-4-shthomas1.csproj.CoreCompileInputs.cache
+C:\Users\seant\Documents\GitHub\mis-221-lab-4-shthomas1\obj\Debug\net8.0\mis-221-lab-4-shthomas1.sourcelink.json
+C:\Users\seant\Documents\GitHub\mis-221-lab-4-shthomas1\bin\Debug\net8.0\mis-221-lab-4-shthomas1.exe
+C:\Users\seant\Documents\GitHub\mis-221-lab-4-shthomas1\bin\Debug\net8.0\mis-221-lab-4-shthomas1.deps.json
+C:\Users\seant\Documents\GitHub\mis-221-lab-4-shthomas1\bin\Debug\net8.0\mis-221-lab-4-shthomas1.runtimeconfig.json
+C:\Users\seant\Documents\GitHub\mis-221-lab-4-shthomas1\bin\Debug\net8.0\mis-221-lab-4-shthomas1.dll
+C:\Users\seant\Documents\GitHub\mis-221-lab-4-shthomas1\bin\Debug\net8.0\mis-221-lab-4-shthomas1.pdb
+C:\Users\seant\Documents\GitHub\mis-221-lab-4-shthomas1\obj\Debug\net8.0\mis-221-lab-4-shthomas1.dll
+C:\Users\seant\Documents\GitHub\mis-221-lab-4-shthomas1\obj\Debug\net8.0\refint\mis-221-lab-4-shthomas1.dll
+C:\Users\seant\Documents\GitHub\mis-221-lab-4-shthomas1\obj\Debug\net8.0\mis-221-lab-4-shthomas1.pdb
+C:\Users\seant\Documents\GitHub\mis-221-lab-4-shthomas1\obj\Debug\net8.0\mis-221-lab-4-shthomas1.genruntimeconfig.cache
+C:\Users\seant\Documents\GitHub\mis-221-lab-4-shthomas1\obj\Debug\net8.0\ref\mis-221-lab-4-shthomas1.dll
